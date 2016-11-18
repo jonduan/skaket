@@ -4,6 +4,8 @@ pygments: true
 
 markdown: kramdown    #redcarpet
 
+highlighter: rouge
+
 base_url: https://jonduan.github.io/skaket/
 
 github_uname: jonduan
