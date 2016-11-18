@@ -2,9 +2,9 @@ name: jonduan
 
 pygments: true
 
-markdown: kmarkdown    #redcarpet
+markdown: kramdown    #redcarpet
 
-base_url: skaket/
+base_url: https://jonduan.github.io/skaket/
 
 github_uname: jonduan
 
