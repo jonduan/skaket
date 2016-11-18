@@ -1,6 +1,11 @@
-name: null
-pygments: true
-markdown: redcarpet
+name: jonduan
 
-github_uname: null
+pygments: true
+
+markdown: kmarkdown    #redcarpet
+
+baseurl: skaket/
+
+github_uname: jonduan
+
 twitter: null
