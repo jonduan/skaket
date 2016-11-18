@@ -4,7 +4,7 @@ pygments: true
 
 markdown: kmarkdown    #redcarpet
 
-baseurl: skaket/
+base_url: skaket/
 
 github_uname: jonduan
 
